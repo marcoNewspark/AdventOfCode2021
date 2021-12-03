@@ -28,10 +28,8 @@ namespace _3
                 if(work.Count == 1)
                 {
                     break;
-                }
-                
+                }   
             }
-
             return Convert.ToInt32(work[0], 2);
         }
 
@@ -56,7 +54,6 @@ namespace _3
                 {
                     break;
                 }
-
             }
 
             return Convert.ToInt32(work[0],2);
