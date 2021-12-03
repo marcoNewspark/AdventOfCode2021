@@ -1,0 +1,14 @@
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.csproj.AssemblyReference.cache
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.AssemblyInfoInputs.cache
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.AssemblyInfo.cs
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.csproj.CoreCompileInputs.cache
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.exe
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.deps.json
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.json
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.runtimeconfig.dev.json
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.dll
+C:\src\AdventOfCode2021\3\3\bin\Debug\netcoreapp3.1\3.pdb
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.dll
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.pdb
+C:\src\AdventOfCode2021\3\3\obj\Debug\netcoreapp3.1\3.genruntimeconfig.cache
