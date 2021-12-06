@@ -1,0 +1,14 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+<<<<<<< HEAD
+      "C:\\Users\\Marco Littel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Marco Littel\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+=======
+      "C:\\Users\\m_lit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\m_lit\\.nuget\\packages"
+>>>>>>> 70c2038c64db43e11815a7e4a3eff013696d449a
+    ]
+  }
+}

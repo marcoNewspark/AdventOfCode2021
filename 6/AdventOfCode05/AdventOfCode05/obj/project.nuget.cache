@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "F5RrwadTBPowfR0guLV6964c0hewFjVaoHGghX7SxudCPlwtabNPE/971YvYVNHbWegMOpbTpCFF/rAabonGKA==",
+  "success": true,
+  "projectFilePath": "C:\\src\\AdventOfCode2021\\5\\AdventOfCode05\\AdventOfCode05\\AdventOfCode05.csproj",
+=======
+  "dgSpecHash": "OurUUqUL1RjNyINNsryMxF9pHp+FhgDLxuLKiXsYuuuhkb3cNhkPzBIe+Zy7/IDGu+NubE/pfO4oI2Ous1yNog==",
+  "success": true,
+  "projectFilePath": "E:\\src\\AdventOfCode2021\\5\\AdventOfCode05\\AdventOfCode05\\AdventOfCode05.csproj",
+>>>>>>> 70c2038c64db43e11815a7e4a3eff013696d449a
+  "expectedPackageFiles": [],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.exe
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.deps.json
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.runtimeconfig.json
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.runtimeconfig.dev.json
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.dll
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.pdb
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.csproj.AssemblyReference.cache
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.AssemblyInfoInputs.cache
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.AssemblyInfo.cs
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.csproj.CoreCompileInputs.cache
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.dll
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.pdb
+C:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.genruntimeconfig.cache
+=======
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.csproj.AssemblyReference.cache
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.AssemblyInfoInputs.cache
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.AssemblyInfo.cs
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.csproj.CoreCompileInputs.cache
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.exe
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.deps.json
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.runtimeconfig.json
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.runtimeconfig.dev.json
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.dll
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\bin\Debug\netcoreapp3.1\AdventOfCode05.pdb
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.dll
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.pdb
+E:\src\AdventOfCode2021\5\AdventOfCode05\AdventOfCode05\obj\Debug\netcoreapp3.1\AdventOfCode05.genruntimeconfig.cache
+>>>>>>> 70c2038c64db43e11815a7e4a3eff013696d449a
